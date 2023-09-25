@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+    min-height: 100vh;
+    position: relative;
+}
+header{
+    height: 80px;
+    background-color: bisque;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+    height: 80px;
+    background-color: blue;
+   
+}
+
+#bgSimulador{
+    background-color: aquamarine;
+}
