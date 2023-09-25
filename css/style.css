@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../multimedia/subtle-prism-_2_.webp);
+    min-height: 100vh;
+    position: relative;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4rem;
+    color: white;
+    -webkit-text-stroke: 0.8px black;
+    margin-left: 380px;
+}
+
+#botonSim{
+    height: 35px;
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 1100px;
+    border-radius: 15px;
+    background-color: #b3cece;
+    padding-top: 15px;
+    padding-left: 27px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 35px;
+    color: #062b30;
+
+}
+img{
+margin-left: 360px;
+}
+
+
+
