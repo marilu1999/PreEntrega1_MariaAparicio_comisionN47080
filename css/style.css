@@ -7,37 +7,60 @@ body{
     min-height: 100vh;
     position: relative;
 }
-
-h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 4rem;
-    color: white;
-    -webkit-text-stroke: 0.8px black;
-    margin-left: 380px;
+nav{
+    background-color: aliceblue;
+    margin-left: 45px;
+    margin-right: 45px;
+    border-radius: 10px;
+}
+ ul{
+   list-style-type: none;
+  
+  
+ }
+ li{
+    display: inline;
+    padding: 25px;
+    font-size: 25px;
+    margin-left: 200px;
+    color: blue;
+ }
+img{
+    height: 350px;
+    width: 75%;
+    margin-left: 200px;
+    margin-top: 15px;
 }
 
-#botonSim{
-    height: 35px;
-    width: 100px;
+div{
+    margin-left: 250px;
+    margin-right: 150px;
     margin-top: 25px;
-    margin-left: 1100px;
-    border-radius: 15px;
-    background-color: #b3cece;
-    padding-top: 15px;
-    padding-left: 27px;
-    padding-right: 25px;
-    padding-bottom: 15px;
-    
+    margin-bottom: 15px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-size: 25px;
+    color: rgb(33, 22, 7);
+    padding-left: 360px;
+}
+#tcc{
+    padding-left: 300px;
+}
+section{
+    background-color: aquamarine;
+    height: 50px;
+    width: 150px;
+    margin-bottom: 15px;
+    margin-left: 650px;
+    margin-top: 25px;
+    padding-top: 25px;
+    padding-left: 15px;
+
 }
 a{
+   
     text-decoration: none;
-    font-size: 35px;
-    color: #062b30;
-
+    padding: 25px;
+    font-size: 25px;
+    color: rgb(17, 23, 50);
 }
-img{
-margin-left: 360px;
-}
-
-
-
